@@ -1,4 +1,4 @@
-# Affective-regulation.layer
+# Affective regulation layer
 This repository contains the code for ARL. 
 Read the MIT License and check out requirements.txt for libraries.
 Read the paper for more details.
